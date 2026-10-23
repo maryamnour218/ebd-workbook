@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #222222;
+  margin: 0;
+  padding: 30px;
+}
+
+h1 {
+  color: #17365d;
+}
+
+#list {
+  padding-left: 25px;
+}
+
+.row {
+  padding: 12px;
+  color: #222222;
+  background-color: #ffffff;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+
+#filter-button {
+  padding: 10px 18px;
+  background-color: #17365d;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#filter-button:hover {
+  background-color: #254f80;
+}
